@@ -1,265 +1,278 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-</p>
 
-<h1 align="center">Hi 👋, I'm Trilokesh Ranjan Sarkar</h1>
+<div align="center">
 
-<h3 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
+
+<h1>Hi 👋, I'm Trilokesh Ranjan Sarkar</h1>
+
+<h3>
 Data Analyst | Generative AI | Data Engineering | Machine Learning | Big Data
 </h3>
 
-<p align="center">
-  <a href="mailto:trilokesh086@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/trilokesh-ranjan-sarkar-667a761b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
+<p>
+<img src="https://komarev.com/ghpvc/?username=trilokesh-praxis-2023&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
-# 🚀 About Me
-
-💼 Data Analyst with 2+ years of experience building AI-powered analytics, automation systems, OCR/NLP pipelines, and business intelligence solutions.
-
-🔹 Currently working at **Web Spiders** on Generative AI, Data Engineering, Retail Analytics, and LLM-powered automation.
-
-🔹 Experienced in:
-- Generative AI & LLM Applications
-- Data Analytics & Business Intelligence
-- Machine Learning & Computer Vision
-- OCR & NLP Automation
-- Data Engineering Pipelines
-- AWS Cloud & SQL Systems
-
-🔹 Passionate about transforming raw data into business value through AI, analytics, and automation.
-
----
-
-# 🎯 Current Focus
-
-- 🤖 Generative AI Applications
-- 🧠 LLM-powered Workflows
-- 📊 Data Analytics & Dashboarding
-- ☁️ AWS Data Solutions
-- 🔍 OCR + NLP Automation
-- 🎥 Video Analytics & Computer Vision
-- ⚙️ Data Engineering Pipelines
-
----
-
-# 💼 Professional Experience
-
-## Data Analyst | Web Spiders
-📍 Kolkata, India | Oct 2024 – Present
-
-### Key Contributions
-
-✅ Built an LLM-powered Taxonomy Audit Platform using:
-
-- GPT-4o
-- Apache Airflow
-- AWS
-- Redshift
-- PostgreSQL
-- Label Studio
-
-Result:
-- Automated retail taxonomy validation
-- Human-in-the-loop review workflows
-- Improved data governance and scalability
-
----
-
-✅ Developed OCR + NLP Automation Systems
-
-- Handwriting Recognition
-- Intelligent Document Processing
-- Named Entity Recognition (NER)
-- Regex-based Data Extraction
-
-Result:
-- Reduced manual effort by 80%
-- Improved extraction accuracy
-
----
-
-✅ Retail Video Analytics
-
-- Customer Heatmaps
-- Customer Movement Tracking
-- Store Traffic Analysis
-- Sentiment Detection
-
-Result:
-- Better store layout planning
-- Improved customer engagement insights
-
----
-
-✅ Built ANPR System
-
-- YOLOv8
-- Computer Vision
-- Deep Learning
-
-Real-time license plate recognition system.
-
----
-
-✅ Marketing Analytics
-
-- KPI Dashboards
-- Campaign Performance Monitoring
-- Conversion Analytics
-
-Impact:
-- 15% increase in engagement
-- 12% increase in conversions
-
----
-
-# 🧠 Featured Projects
-
-## 🔹 LLM-Powered Taxonomy Audit Pipeline
-
-Tech Stack:
-
-`GPT-4o` `AWS` `Airflow` `Redshift` `PostgreSQL` `Label Studio`
-
-Features:
-- Taxonomy Validation
-- Ontology Auditing
-- AI Review Workflows
-- Web Research Automation
-
----
-
-## 🔹 Video AI Retail Analytics
-
-Features:
-
-- Heatmaps
-- Customer Tracking
-- Traffic Analysis
-- Behaviour Insights
-
-Tech:
-
-`Python` `OpenCV` `Computer Vision` `Deep Learning`
-
----
-
-## 🔹 OCR + NLP Intelligent Document Processing
-
-Features:
-
-- Handwritten Document Digitization
-- Named Entity Recognition
-- Automated Information Extraction
-- Structured Data Generation
-
-Tech:
-
-`PyTesseract` `NLP` `Regex` `Python`
-
----
-
-## 🔹 Product Verification Automation
-
-Features:
-
-- Vendor Website Scraping
-- Amazon Product Matching
-- Similarity Scoring
-- Workflow Automation
-
-Tech:
-
-`Python` `Selenium` `Automation`
-
----
-
-## 🔹 Adversarial AI Research
-
-Research Paper:
-
-**Comparing FGSM, Carlini-Wagner Attacks, and the Function of Distillation as a Defense Mechanism to Assess Adversarial Robustness**
-
-Published on arXiv:
-
-https://arxiv.org/abs/2404.04245
-
-Highlights:
-
-- FGSM Attack
-- Carlini-Wagner Attack
-- Defensive Distillation
-- Adversarial Robustness Evaluation
-
----
-
-# 📚 Education
-
-🎓 Post Graduate Program in Data Science  
-Praxis Business School
-
-🎓 Bachelor of Computer Applications (BCA)  
-B.P. Poddar Institute of Management & Technology
-
----
-
-# 🛠️ Tech Stack
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### AI / ML
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-### Data Engineering
-
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-### Analytics
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge)
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trilokesh-praxis-2023&show_icons=true&theme=tokyonight"/>
+<p>
+<a href="mailto:trilokesh086@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/trilokesh-ranjan-sarkar-667a761b3/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/trilokesh-praxis-2023">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trilokesh-praxis-2023&theme=tokyonight"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=700&lines=Data+Analyst+at+Web+Spiders;Generative+AI+%7C+LLMs+%7C+Machine+Learning;AWS+%7C+Python+%7C+SQL+%7C+Power+BI;OCR+%7C+NLP+%7C+Computer+Vision" />
+
+</div>
+
+<hr>
+
+<h2>🚀 About Me</h2>
+
+<p>
+Data Analyst with <b>2+ years of experience</b> in Data Analytics, Generative AI,
+Machine Learning, OCR, NLP, Data Engineering, and Business Intelligence.
 </p>
 
----
+<p>
+Currently working at <b>Web Spiders</b>, building enterprise-scale AI and analytics
+solutions using GPT-4o, AWS, Airflow, SQL, PostgreSQL, Redshift, and Power BI.
+</p>
 
-# 🌐 Connect With Me
+<ul>
+<li>🤖 Generative AI & LLM Applications</li>
+<li>📊 Data Analytics & Visualization</li>
+<li>⚙️ Data Engineering Pipelines</li>
+<li>📝 OCR & NLP Automation</li>
+<li>🎥 Computer Vision & Video Analytics</li>
+<li>☁️ AWS Cloud Solutions</li>
+</ul>
 
-📧 Email: **trilokesh086@gmail.com**
+<hr>
 
+<h2>🏆 Impact Highlights</h2>
+
+<table>
+<tr>
+<td>🚀 Reduced Manual Effort</td>
+<td><b>80%</b></td>
+</tr>
+
+<tr>
+<td>📈 Campaign Engagement Growth</td>
+<td><b>15%</b></td>
+</tr>
+
+<tr>
+<td>💰 Conversion Improvement</td>
+<td><b>12%</b></td>
+</tr>
+
+<tr>
+<td>🤖 AI Workflow Automation</td>
+<td><b>Enterprise Scale</b></td>
+</tr>
+</table>
+
+<hr>
+
+<h2>💼 Current Work</h2>
+
+<h3>🤖 LLM-Powered Taxonomy Audit Platform</h3>
+
+<ul>
+<li>GPT-4o</li>
+<li>Apache Airflow</li>
+<li>AWS Cloud</li>
+<li>Amazon Redshift</li>
+<li>PostgreSQL</li>
+<li>Label Studio</li>
+</ul>
+
+<p>
+Building AI-powered validation, ontology auditing, web research,
+and human-in-the-loop review workflows.
+</p>
+
+<h3>🎥 Video AI Retail Analytics</h3>
+
+<ul>
+<li>Customer Heatmaps</li>
+<li>Customer Tracking</li>
+<li>Store Traffic Analysis</li>
+<li>Behaviour Analytics</li>
+<li>Sentiment Analysis</li>
+</ul>
+
+<h3>📝 OCR + NLP Automation</h3>
+
+<ul>
+<li>Handwriting Recognition</li>
+<li>Document Digitization</li>
+<li>Named Entity Recognition</li>
+<li>Regex Extraction</li>
+<li>Data Validation Automation</li>
+</ul>
+
+<hr>
+
+<h2>🧠 Featured Projects</h2>
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+</tr>
+
+<tr>
+<td>LLM Taxonomy Audit Pipeline</td>
+<td>GPT-4o powered taxonomy validation and governance system</td>
+</tr>
+
+<tr>
+<td>Video AI Retail Analytics</td>
+<td>Customer heatmaps and behavioural analytics</td>
+</tr>
+
+<tr>
+<td>OCR + NLP Automation</td>
+<td>Intelligent document processing and extraction</td>
+</tr>
+
+<tr>
+<td>ANPR System</td>
+<td>YOLOv8 based Automatic Number Plate Recognition</td>
+</tr>
+
+<tr>
+<td>Product Verification Automation</td>
+<td>Vendor to Amazon product matching workflow</td>
+</tr>
+
+<tr>
+<td>LinkedIn Job Automation</td>
+<td>Automated scraping and personalized outreach</td>
+</tr>
+
+</table>
+
+<hr>
+
+<h2>🛠️ Tech Stack</h2>
+
+<h3>Programming</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql,r" />
+</p>
+
+<h3>AI / Machine Learning</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+Generative AI • LLMs • NLP • OCR • Computer Vision
+</p>
+
+<h3>Cloud & Data Engineering</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+</p>
+
+<p>
+Apache Airflow • PostgreSQL • Redshift
+</p>
+
+<h3>Analytics</h3>
+
+<p>
+Power BI • Looker Studio • Data Visualization • Dashboarding
+</p>
+
+<hr>
+
+<h2>📚 Research Publication</h2>
+
+<h3>
+Comparing FGSM, Carlini-Wagner Attacks, and Distillation as a Defense Mechanism
+</h3>
+
+<p>
+Published on <b>arXiv</b>
+</p>
+
+<p>
+<a href="https://arxiv.org/abs/2404.04245">
+View Publication
+</a>
+</p>
+
+<ul>
+<li>Adversarial Machine Learning</li>
+<li>Model Security</li>
+<li>Defensive Distillation</li>
+<li>Robust AI Systems</li>
+</ul>
+
+<hr>
+
+<h2>📈 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=trilokesh-praxis-2023&show_icons=true&theme=tokyonight"/>
+
+<br><br>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=trilokesh-praxis-2023&layout=compact&theme=tokyonight"/>
+
+<br><br>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=trilokesh-praxis-2023&theme=tokyonight"/>
+
+</div>
+
+<hr>
+
+<h2>🎯 2026 Goals</h2>
+
+<ul>
+<li>Build Production Grade GenAI Applications</li>
+<li>Master LLMOps & MLOps</li>
+<li>Contribute to Open Source AI Projects</li>
+<li>Scale Enterprise AI Systems</li>
+<li>Transition into AI Engineer Roles</li>
+</ul>
+
+<hr>
+
+<h2>🌐 Connect With Me</h2>
+
+<p>
+📧 Email: <b>trilokesh086@gmail.com</b>
+</p>
+
+<p>
 💼 LinkedIn:
-https://www.linkedin.com/in/trilokesh-ranjan-sarkar-667a761b3/
+<a href="https://www.linkedin.com/in/trilokesh-ranjan-sarkar-667a761b3/">
+View Profile
+</a>
+</p>
 
-📄 Research:
-https://arxiv.org/abs/2404.04245
-
-⭐ Always interested in collaborating on AI, Data Analytics, Generative AI, Data Engineering, and Automation projects.
+<p>
+⭐ Open to opportunities in Data Analytics, AI Engineering,
+Machine Learning, Data Engineering, and Generative AI.
+</p>
+```
